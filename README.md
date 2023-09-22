@@ -33,7 +33,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+<<<<<<< HEAD
 <img src='https://www.dropbox.com/scl/fi/7mxpoaox68dz27zqkkrwt/walkthru.gif?rlkey=1vx3tskvomjqoont2pb7vhpva&dl=0' title='Video Walkthrough' width=100px alt='Video Walkthrough' />
+=======
+<img src='https://www.dropbox.com/scl/fi/7mxpoaox68dz27zqkkrwt/walkthru.gif?rlkey=1vx3tskvomjqoont2pb7vhpva&dl=0' title='Video Walkthrough' width='100' alt='Video Walkthrough' />
+>>>>>>> b8ec53835e383adf2abfd2f51b8ec3a8e9c0e11b
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Add GIF tool here
