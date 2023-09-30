@@ -33,7 +33,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='walkthru_proj1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='https://www.dropbox.com/scl/fi/i3x3snqs7sxv0590xtij1/walkthru_database.mp4?rlkey=hygc5foszt277rccfb8dovzvt&dl=0' title='Video Walkthrough' width=100px alt='Video Walkthrough' />
+<img src='database.gif' title='Video Walkthrough' width=100px alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Add GIF tool here
