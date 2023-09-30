@@ -1,5 +1,6 @@
 import express from 'express';
 import itemsRouter from './routes/items.js'
+import './config/dotenv.js'
 const app = express();
 
 app.use('/public', express.static('./public'));

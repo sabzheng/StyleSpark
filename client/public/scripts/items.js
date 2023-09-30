@@ -24,7 +24,8 @@ const renderItems = async () => {
             style.textContent = 'Style: ' + item.style
             bottomContainer.appendChild(style)
             const date = document.createElement('p')
-            date.textContent = 'Posted on: ' + item.submittedOn.slice(0, 10)+" "+item.submittedOn.slice(11, 16)
+            const submittedOnDate = new Date(item.submittedon)
+            date.textContent = 'Posted on: ' + submittedOnDate.toLocaleString('en-US', {month: '2-digit', day: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit'})
             bottomContainer.appendChild(date)
             const link = document.createElement('a')
             link.textContent = 'Read More >'
