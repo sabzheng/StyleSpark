@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.dropbox.com/scl/fi/7mxpoaox68dz27zqkkrwt/walkthru.gif?rlkey=1vx3tskvomjqoont2pb7vhpva&dl=0' title='Video Walkthrough' width=100px alt='Video Walkthrough' />
+<img src='walkthru_proj1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='https://www.dropbox.com/scl/fi/i3x3snqs7sxv0590xtij1/walkthru_database.mp4?rlkey=hygc5foszt277rccfb8dovzvt&dl=0' title='Video Walkthrough' width=100px alt='Video Walkthrough' />
 
