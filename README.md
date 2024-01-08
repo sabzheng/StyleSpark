@@ -4,7 +4,7 @@ Submitted by: **Sabrina Zheng**
 
 About this web app: **A web platform that allows users to browse, and filter for trending fashion products that users shared. It includes a while range of products from different categories to different brands. Purpose is to let users to share and discover trending fashion items. This web app is to not only keeps users updated on the latest trend but also offer a sense of community around fashion.**
 
-Time spent: **3** hours
+Time spent: **5** hours
 
 ## Required Features
 
@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='walkthru_proj1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthru_proj1.gif' title='Proj Video Walkthrough' width='' alt='Proj Video Walkthrough' />
 
 <img src='database.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
