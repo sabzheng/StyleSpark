@@ -16,18 +16,7 @@ The following **required** functionality is completed:
 - [x] **The PostgreSQL database includes a table that matches the data displayed in the web app**
   - [x] **NOTE: Your GIF or a screenshot added to the README must include a view of your Railway database that shows the contents of the table used by your app**
 
-The following **optional** features are implemented:
-
-- [ ] The user can search for items with a specific attribute
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you added to improve the site's functionality!
-
-
 ## Video Walkthrough
-
-**Note: please be sure to 
 
 Here's a walkthrough of implemented required features:
 
@@ -35,23 +24,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='database.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Add GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
-
-## License
-
-Copyright 2023 Sabrina Zheng
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
-
-> http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+- The combination of useEffect and asynchronous operations with await promises may initially present challenges, but any potential issues are resolved through a meticulous review process and thorough debugging screening.
